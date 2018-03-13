@@ -35,25 +35,25 @@ public class Student {
 		this.gender = gender;
 	}
 
-	 /**
-	 * @description:  
+	/**
+	 * @description:
 	 * @author: Admin CMC Corporation
 	 * @create_date: Mar 5, 2018
 	 * @modifier: Admin
 	 * @modifined_date: Mar 5, 2018
-	 * @exception: 
+	 * @exception:
 	 */
 	public void hienThi() {
 		System.out.println(" Name: " + this.studentName + " age: " + this.age);
 	}
 
-	 /**
-	 * @description:  
+	/**
+	 * @description:
 	 * @author: Admin CMC Corporation
 	 * @create_date: Mar 5, 2018
 	 * @modifier: Admin
 	 * @modifined_date: Mar 5, 2018
-	 * @exception: 
+	 * @exception:
 	 * @param welcome
 	 */
 	public void hienThi(String welcome) {

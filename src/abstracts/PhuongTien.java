@@ -4,7 +4,7 @@
 package abstracts;
 
 /**
- * @description:
+ * @description:lớp trừu tượng PhuongTien
  * @author: Admin
  * @time: 9:20:28 PM
  * @date: Mar 5, 2018

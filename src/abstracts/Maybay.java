@@ -4,7 +4,7 @@
 package abstracts;
 
 /**
- * @description:
+ * @description:Lớp MayBay kế thừa từ lớp PhuongTien
  * @author: Admin
  * @time: 9:28:23 PM
  * @date: Mar 5, 2018

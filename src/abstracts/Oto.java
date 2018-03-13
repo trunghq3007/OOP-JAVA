@@ -4,7 +4,7 @@
 package abstracts;
 
 /**
- * @description:
+ * @description:Lớp Oto kế thừa từ lớp PhuongTien
  * @author: Admin
  * @time: 9:22:28 PM
  * @date: Mar 5, 2018
